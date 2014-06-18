@@ -58,7 +58,6 @@ console.log 'Some bad stuff'
 
 # good
 console.log('This is better')
-
 ```
 
 <a name="tabs_or_spaces"/>
