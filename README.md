@@ -56,6 +56,8 @@ Use **spaces only**, with **2 spaces** per indentation level. Never mix tabs and
 
 Limit all lines to a maximum of 79 characters.
 
+[Sublime instructions](http://www.in-nomine.org/2011/02/02/sublime-text-with-80-and-120-column-rulers/)
+
 <a name="blank_lines"/>
 ### Blank Lines
 
