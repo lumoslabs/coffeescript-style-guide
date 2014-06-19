@@ -68,7 +68,7 @@ Use **spaces only**, with **2 spaces** per indentation level. Never mix tabs and
 <a name="maximum_line_length"/>
 ### Maximum Line Length
 
-Limit all lines to a maximum of 79 characters.
+Limit all lines to a maximum of 80 characters.
 
 [Sublime instructions](http://www.in-nomine.org/2011/02/02/sublime-text-with-80-and-120-column-rulers/)
 
